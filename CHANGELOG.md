@@ -1,3 +1,11 @@
+## 26910 release
+
+### Changelog
+
+- Fixed incorrect trig LED behaviour when switching from PTTRN SETUP to TRACK SETUP ([#58](../../issues/58))
+- Fixed PAGE LEDs not consistently reflecting the selected track's length ([#60](../../issues/60))
+- Fixed PAGE LEDs staying on or off during short SONG loops depending on the row's OFS value ([#60](../../issues/60))
+
 ## 26725 beta (hotfix)
 
 ### Changelog
